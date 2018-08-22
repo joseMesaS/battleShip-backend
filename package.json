@@ -1,7 +1,7 @@
 {
-  "name": "battleShip-backend",
+  "name": "battle-ship-backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "target/index.js",
   "license": "MIT",
   "scripts": {
     "start": "nodemon .",
